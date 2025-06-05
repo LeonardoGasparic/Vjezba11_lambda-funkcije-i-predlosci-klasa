@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1749137818 source:c:\users\student\desktop\vjezba 11 lambda i predlosci\lokalni izbori\main.cpp
+	<fstream>
+	"OpcinskoVijece25.h"
+	"Nacelnik25.h"
+
+1749137649 c:\users\student\desktop\vjezba 11 lambda i predlosci\lokalni izbori\include\opcinskovijece25.h
+	"IzboriLok25.h"
+
+1749137649 c:\users\student\desktop\vjezba 11 lambda i predlosci\lokalni izbori\include\izborilok25.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<fstream>
+
+1749137649 c:\users\student\desktop\vjezba 11 lambda i predlosci\lokalni izbori\include\nacelnik25.h
+	"IzboriLok25.h"
+
