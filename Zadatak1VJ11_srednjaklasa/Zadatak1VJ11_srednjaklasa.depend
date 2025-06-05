@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1749135343 source:c:\users\student\desktop\vjezba 11 lambda i predlosci\zadatak1vj11_srednjaklasa\main.cpp
+	<iostream>
+	<random>
+	<thread>
+	<chrono>
+	<atomic>
+	"SrednjaLista.h"
+
+1749135343 c:\users\student\desktop\vjezba 11 lambda i predlosci\zadatak1vj11_srednjaklasa\include\srednjalista.h
+	<vector>
+	<functional>
+	<numeric>
+	<iostream>
+
+1749135343 source:c:\users\student\desktop\vjezba 11 lambda i predlosci\zadatak1vj11_srednjaklasa\src\srednjalista.cpp
+	"SrednjaLista.h"
+
