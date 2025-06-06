@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1749207644 source:c:\users\leona\radna površina\lokalniizbori2\izbori2\main.cpp
+	<iostream>
+	<algorithm>
+	"OpcinskoVijece25.h"
+	"Nacelnik25.h"
+
+1749205347 c:\users\leona\radna površina\lokalniizbori2\izbori2\include\opcinskovijece25.h
+	"IzboriLok25.h"
+	"Podaci.h"
+
+1749207788 c:\users\leona\radna površina\lokalniizbori2\izbori2\include\izborilok25.h
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1749205347 c:\users\leona\radna površina\lokalniizbori2\izbori2\include\podaci.h
+	<string>
+	<iostream>
+	<iomanip>
+	<algorithm>
+
+1749205347 c:\users\leona\radna površina\lokalniizbori2\izbori2\include\nacelnik25.h
+	"IzboriLok25.h"
+	"Podaci.h"
+
+1749207624 source:c:\users\leona\radna površina\lokalniizbori2\izbori2\src\podaci.cpp
+	"Podaci.h"
+	<sstream>
+	<algorithm>
+	<iostream>
+
